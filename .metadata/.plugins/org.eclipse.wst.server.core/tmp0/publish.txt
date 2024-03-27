@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat May 06 14:41:21 IST 2023
+org.eclipse.jst.jee.server\:tejas=C\:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\wtpwebapps\\tejas
+org.eclipse.jst.jee.server\:signup=C\:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\wtpwebapps\\signup
+org.eclipse.jst.jee.server\:web=C\:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\wtpwebapps\\web
